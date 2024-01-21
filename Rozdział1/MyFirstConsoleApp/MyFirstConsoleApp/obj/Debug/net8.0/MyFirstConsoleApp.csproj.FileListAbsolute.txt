@@ -1,0 +1,14 @@
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
