@@ -12,3 +12,4 @@ E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\r
 E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
 E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
 E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
+E:\RuszGłową\Rozdział1\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.sourcelink.json
