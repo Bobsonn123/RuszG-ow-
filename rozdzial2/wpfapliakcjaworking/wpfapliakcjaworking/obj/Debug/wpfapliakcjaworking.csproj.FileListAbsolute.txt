@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\bin\Debug\wpfapliakcjaworking.exe.config
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\bin\Debug\wpfapliakcjaworking.exe
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\bin\Debug\wpfapliakcjaworking.pdb
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.csproj.AssemblyReference.cache
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\MainWindow.g.cs
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\App.g.cs
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking_MarkupCompile.cache
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking_MarkupCompile.lref
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\MainWindow.baml
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.g.resources
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.Properties.Resources.resources
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.csproj.GenerateResource.cache
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.exe
+E:\RuszGłową\rozdzial2\wpfapliakcjaworking\wpfapliakcjaworking\obj\Debug\wpfapliakcjaworking.pdb
