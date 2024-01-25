@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\bin\Debug\net8.0\testowyapplicajtito.exe
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\bin\Debug\net8.0\testowyapplicajtito.deps.json
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\bin\Debug\net8.0\testowyapplicajtito.runtimeconfig.json
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\bin\Debug\net8.0\testowyapplicajtito.dll
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\bin\Debug\net8.0\testowyapplicajtito.pdb
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.AssemblyInfo.cs
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.sourcelink.json
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.dll
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\refint\testowyapplicajtito.dll
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.pdb
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\testowyapplicajtito.genruntimeconfig.cache
+E:\RuszGłową\rodzial3\testowyapplicajtito\testowyapplicajtito\obj\Debug\net8.0\ref\testowyapplicajtito.dll
