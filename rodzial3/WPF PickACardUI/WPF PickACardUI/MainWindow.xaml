@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_PickACardUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_PickACardUI"
+        mc:Ignorable="d"
+        Title="Wybieranie kart" Height="350" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel HorizontalAlignment="Center"  VerticalAlignment="Center" Margin="20">
+        <Label Content="Podaj liczbę kart:" FontSize="22"/>
+        <Slider x:Name="numberOfCards" Minimum="1" Maximum="15" IsSnapToTickEnabled="True" TickPlacement="BottomRight" AutoToolTipPlacement="TopLeft" Foreground="Black"/>
+        </StackPanel>
+        <Button Content="Wybierz karty" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Center" FontSize="22" Margin="20,20,20,20" Click="Button_Click"/>
+        <ListBox x:Name="listOfCards" Grid.Column="1" d:ItemsSource="{d:SampleData ItemCount=5}" FontSize="22" Margin="20,20,20,20" Grid.RowSpan="9"/>
+    </Grid>
+</Window>

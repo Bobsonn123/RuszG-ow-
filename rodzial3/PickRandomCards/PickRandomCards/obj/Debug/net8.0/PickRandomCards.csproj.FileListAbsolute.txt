@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.exe
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.deps.json
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.runtimeconfig.json
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.dll
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\bin\Debug\net8.0\PickRandomCards.pdb
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.AssemblyInfo.cs
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.sourcelink.json
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.dll
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\refint\PickRandomCards.dll
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.pdb
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\PickRandomCards.genruntimeconfig.cache
+E:\RuszGłową\rodzial3\PickRandomCards\PickRandomCards\obj\Debug\net8.0\ref\PickRandomCards.dll
