@@ -28,7 +28,7 @@ namespace WPF_PickACardUI
             for (int i = 0; i < randomDoubles.Length; i++)
             {
                 double value = rnd.NextDouble();
-                if(value <= 0.0 && value < 1.0)
+                if(value >= 0.0 && value < 1.0)
                 {
                     randomDoubles[i] = value;
                 }
