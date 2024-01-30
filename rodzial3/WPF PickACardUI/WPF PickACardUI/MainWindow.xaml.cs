@@ -23,7 +23,16 @@ namespace WPF_PickACardUI
     {
         public MainWindow()
         {
-            InitializeComponent();
+            Random rnd = new Random();
+            double[] randomDoubles = new double[20];
+            for (int i = 0; i < randomDoubles.Length; i++)
+            {
+                double value = rnd.NextDouble();
+                if(value <= 0.0 && value < 1.0)
+                {
+                    randomDoubles[i] = value;
+                }
+            }
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

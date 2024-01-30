@@ -9,6 +9,11 @@ namespace PickACardUI
     internal class CardPicker
     {
         static Random random = new Random();
+        /// <summary>
+        /// Wybiera określoną liczbę kart i zwraca je.
+        /// </summary>
+        /// <param name="numberOfCards">Liczba wybieranch kart.</param>
+        /// <returns>Tablica łańcuchów znaków z nazwami kart.</returns>
         public static string[] PickSomeCards(int numberOfCards)
         {
             string[] pickedCards = new string[numberOfCards];
@@ -16,6 +21,7 @@ namespace PickACardUI
             for(int i = 0; i < numberOfCards; i++)
             {
                 pickedCards[i] = RandomValue() + " " + RandomSuit();
+                
             }
             return pickedCards;
         }
