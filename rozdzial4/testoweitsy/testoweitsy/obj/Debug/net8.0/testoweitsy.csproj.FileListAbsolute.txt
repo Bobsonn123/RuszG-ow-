@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\bin\Debug\net8.0\testoweitsy.exe
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\bin\Debug\net8.0\testoweitsy.deps.json
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\bin\Debug\net8.0\testoweitsy.runtimeconfig.json
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\bin\Debug\net8.0\testoweitsy.dll
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\bin\Debug\net8.0\testoweitsy.pdb
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.AssemblyInfo.cs
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.sourcelink.json
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.dll
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\refint\testoweitsy.dll
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.pdb
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\testoweitsy.genruntimeconfig.cache
+E:\RuszGłową\rozdzial4\testoweitsy\testoweitsy\obj\Debug\net8.0\ref\testoweitsy.dll

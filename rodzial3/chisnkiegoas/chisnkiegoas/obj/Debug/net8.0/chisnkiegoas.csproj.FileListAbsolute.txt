@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\bin\Debug\net8.0\chisnkiegoas.exe
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\bin\Debug\net8.0\chisnkiegoas.deps.json
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\bin\Debug\net8.0\chisnkiegoas.runtimeconfig.json
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\bin\Debug\net8.0\chisnkiegoas.dll
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\bin\Debug\net8.0\chisnkiegoas.pdb
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.AssemblyInfo.cs
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.sourcelink.json
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.dll
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\refint\chisnkiegoas.dll
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.pdb
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\chisnkiegoas.genruntimeconfig.cache
+E:\RuszGłową\rodzial3\chisnkiegoas\chisnkiegoas\obj\Debug\net8.0\ref\chisnkiegoas.dll

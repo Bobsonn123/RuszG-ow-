@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial3\adasda\adasda\bin\Debug\net8.0\adasda.exe
+E:\RuszGłową\rodzial3\adasda\adasda\bin\Debug\net8.0\adasda.deps.json
+E:\RuszGłową\rodzial3\adasda\adasda\bin\Debug\net8.0\adasda.runtimeconfig.json
+E:\RuszGłową\rodzial3\adasda\adasda\bin\Debug\net8.0\adasda.dll
+E:\RuszGłową\rodzial3\adasda\adasda\bin\Debug\net8.0\adasda.pdb
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.AssemblyInfo.cs
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.sourcelink.json
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.dll
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\refint\adasda.dll
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.pdb
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\adasda.genruntimeconfig.cache
+E:\RuszGłową\rodzial3\adasda\adasda\obj\Debug\net8.0\ref\adasda.dll
