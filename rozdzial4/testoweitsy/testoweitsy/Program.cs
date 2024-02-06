@@ -1,18 +1,29 @@
-﻿namespace testoweitsy
+﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace testoweitsy
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (float f = 10; float.IsFinite(f); f *= f)
-            {
-                Console.WriteLine(f);
-            }
+            Console.WriteLine(MyMethod(true));
+        }
 
-            for (double d = 10; double.IsFinite(d); d *= d)
+        public static int MyMethod(bool add3)
+        {
+            int value = 12;
+
+            if (add3)
             {
-                Console.WriteLine(d);
+                value += 3;
             }
+            else
+            {
+                value -= 2;
+            }
+            return value;
         }
     }
 }
