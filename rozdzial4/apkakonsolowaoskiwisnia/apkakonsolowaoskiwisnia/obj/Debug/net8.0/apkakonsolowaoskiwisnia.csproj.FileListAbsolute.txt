@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\bin\Debug\net8.0\apkakonsolowaoskiwisnia.exe
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\bin\Debug\net8.0\apkakonsolowaoskiwisnia.deps.json
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\bin\Debug\net8.0\apkakonsolowaoskiwisnia.runtimeconfig.json
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\bin\Debug\net8.0\apkakonsolowaoskiwisnia.dll
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\bin\Debug\net8.0\apkakonsolowaoskiwisnia.pdb
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.AssemblyInfo.cs
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.sourcelink.json
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.dll
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\refint\apkakonsolowaoskiwisnia.dll
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.pdb
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\apkakonsolowaoskiwisnia.genruntimeconfig.cache
+E:\RuszGłową\rozdzial4\apkakonsolowaoskiwisnia\apkakonsolowaoskiwisnia\obj\Debug\net8.0\ref\apkakonsolowaoskiwisnia.dll
