@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\bin\Debug\net8.0\zklasaelephant.exe
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\bin\Debug\net8.0\zklasaelephant.deps.json
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\bin\Debug\net8.0\zklasaelephant.runtimeconfig.json
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\bin\Debug\net8.0\zklasaelephant.dll
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\bin\Debug\net8.0\zklasaelephant.pdb
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.AssemblyInfo.cs
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.sourcelink.json
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.dll
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\refint\zklasaelephant.dll
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.pdb
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\zklasaelephant.genruntimeconfig.cache
+E:\RuszGłową\rozdzial4\zklasaelephant\zklasaelephant\obj\Debug\net8.0\ref\zklasaelephant.dll
