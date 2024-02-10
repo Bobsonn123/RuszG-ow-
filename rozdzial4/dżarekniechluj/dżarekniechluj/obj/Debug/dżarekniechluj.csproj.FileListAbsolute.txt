@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\bin\Debug\dżarekniechluj.exe.config
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\bin\Debug\dżarekniechluj.exe
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\bin\Debug\dżarekniechluj.pdb
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.csproj.AssemblyReference.cache
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\MainWindow.g.cs
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\App.g.cs
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj_MarkupCompile.cache
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj_MarkupCompile.lref
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\MainWindow.baml
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.g.resources
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.Properties.Resources.resources
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.csproj.GenerateResource.cache
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.exe
+E:\RuszGłową\rozdzial4\dżarekniechluj\dżarekniechluj\obj\Debug\dżarekniechluj.pdb

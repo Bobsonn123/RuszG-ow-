@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial4\yututut\yututut\bin\Debug\net8.0\yututut.exe
+E:\RuszGłową\rozdzial4\yututut\yututut\bin\Debug\net8.0\yututut.deps.json
+E:\RuszGłową\rozdzial4\yututut\yututut\bin\Debug\net8.0\yututut.runtimeconfig.json
+E:\RuszGłową\rozdzial4\yututut\yututut\bin\Debug\net8.0\yututut.dll
+E:\RuszGłową\rozdzial4\yututut\yututut\bin\Debug\net8.0\yututut.pdb
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.AssemblyInfo.cs
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.sourcelink.json
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.dll
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\refint\yututut.dll
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.pdb
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\yututut.genruntimeconfig.cache
+E:\RuszGłową\rozdzial4\yututut\yututut\obj\Debug\net8.0\ref\yututut.dll
