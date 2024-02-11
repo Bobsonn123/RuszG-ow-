@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\bin\Debug\net8.0\paintballApp.exe
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\bin\Debug\net8.0\paintballApp.deps.json
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\bin\Debug\net8.0\paintballApp.runtimeconfig.json
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\bin\Debug\net8.0\paintballApp.dll
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\bin\Debug\net8.0\paintballApp.pdb
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.AssemblyInfo.cs
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.sourcelink.json
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.dll
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\refint\paintballApp.dll
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.pdb
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\paintballApp.genruntimeconfig.cache
+E:\RuszGłową\rodzial5\paintballApp\paintballApp\obj\Debug\net8.0\ref\paintballApp.dll
