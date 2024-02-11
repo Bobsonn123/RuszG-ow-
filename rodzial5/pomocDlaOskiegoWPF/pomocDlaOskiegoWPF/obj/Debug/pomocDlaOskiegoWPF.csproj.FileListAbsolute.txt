@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\bin\Debug\pomocDlaOskiegoWPF.exe.config
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\bin\Debug\pomocDlaOskiegoWPF.exe
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\bin\Debug\pomocDlaOskiegoWPF.pdb
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.csproj.AssemblyReference.cache
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\MainWindow.g.cs
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\App.g.cs
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF_MarkupCompile.cache
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF_MarkupCompile.lref
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\MainWindow.baml
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.g.resources
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.Properties.Resources.resources
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.csproj.GenerateResource.cache
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.exe
+E:\RuszGłową\rodzial5\pomocDlaOskiegoWPF\pomocDlaOskiegoWPF\obj\Debug\pomocDlaOskiegoWPF.pdb

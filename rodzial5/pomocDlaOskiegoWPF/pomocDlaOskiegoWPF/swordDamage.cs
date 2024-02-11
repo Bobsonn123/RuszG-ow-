@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace pomocDlaOskiegoWPF
+{
+    internal class swordDamage
+    {
+        public const int BASE_DAMAGE = 3;
+        public const int FLAME_DAMAGE = 2;
+
+        public int Roll;
+        private decimal magicMultiplier = 1M;
+        private int flamingDamage = 0;
+        public int Damage;
+
+        private void CalculateDamage()
+        {
+            Damage = (int)(Roll * magicMultiplier) + BASE_DAMAGE + flamingDamage;
+            Debug.WriteLine($"Po wykonaniu CalculateDamage: {Damage} (rzut: {Roll})");
+        }
+
+        public void SetMagic(bool isMagic)
+        {
+            if (isMagic)
+            {
+                magicMultiplier = 1.75M;
+            }
+            else
+            {
+                magicMultiplier = 1M;
+            }
+            CalculateDamage();
+            Debug.WriteLine($"Po wykonaniu SetMagic: {Damage} (rzut: {Roll})");
+        }
+        public void SetFlaming(bool isFLaming)
+        {
+            if (isFLaming)
+            {
+                Damage += FLAME_DAMAGE;
+            }
+
+            Debug.WriteLine($"Po wykonaniu SetFlaming: {Damage} (rzut: {Roll})");
+        }
+    }
+}
