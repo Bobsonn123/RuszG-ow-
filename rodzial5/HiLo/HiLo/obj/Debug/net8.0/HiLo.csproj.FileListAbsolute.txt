@@ -1,0 +1,15 @@
+E:\RuszGłową\rodzial5\HiLo\HiLo\bin\Debug\net8.0\HiLo.exe
+E:\RuszGłową\rodzial5\HiLo\HiLo\bin\Debug\net8.0\HiLo.deps.json
+E:\RuszGłową\rodzial5\HiLo\HiLo\bin\Debug\net8.0\HiLo.runtimeconfig.json
+E:\RuszGłową\rodzial5\HiLo\HiLo\bin\Debug\net8.0\HiLo.dll
+E:\RuszGłową\rodzial5\HiLo\HiLo\bin\Debug\net8.0\HiLo.pdb
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.AssemblyInfoInputs.cache
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.AssemblyInfo.cs
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.sourcelink.json
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.dll
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\refint\HiLo.dll
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.pdb
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\HiLo.genruntimeconfig.cache
+E:\RuszGłową\rodzial5\HiLo\HiLo\obj\Debug\net8.0\ref\HiLo.dll
