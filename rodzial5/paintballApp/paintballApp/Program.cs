@@ -35,8 +35,7 @@ namespace paintballApp
             {
                 Console.WriteLine("użycie wartości: " + num);
                 return num;
-            }
-            else
+            } 
             {
                 Console.WriteLine("uzycie wartosci domyslnej: " + lastUsedValue);
                 return lastUsedValue;
