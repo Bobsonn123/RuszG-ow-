@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("paintballApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fba633c6fcfb0b7b46d601de2520c7342601556")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ba380587a068087d3f31ca6ab89cd6805e12d44")]
 [assembly: System.Reflection.AssemblyProductAttribute("paintballApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("paintballApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
