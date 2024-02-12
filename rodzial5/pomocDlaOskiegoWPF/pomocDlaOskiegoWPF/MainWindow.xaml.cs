@@ -20,20 +20,21 @@ namespace pomocDlaOskiegoWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        Random random = new Random();
-        swordDamage SwordDamage = new swordDamage();
+        static Random random = new Random();
+        swordDamage SwordDamage;
         public MainWindow()
         {
             InitializeComponent();
-            SwordDamage.SetMagic(magic.IsChecked.Value);
-            SwordDamage.SetFlaming(flaming.IsChecked.Value);
+            SwordDamage = new swordDamage(random.Next(1, 7) + random.Next(1, 7) + random.Next(1, 7));
+
             RollDice();
         }
 
-        private void RollDice()
+        public void RollDice()
         {
             SwordDamage.Roll = random.Next(1, 7) + random.Next(1, 7) + random.Next(1, 7);
             DisplayDamage();
+            
         }
 
         private void DisplayDamage()
@@ -43,25 +44,25 @@ namespace pomocDlaOskiegoWPF
 
         private void magic_Checked(object sender, RoutedEventArgs e)
         {
-            SwordDamage.SetMagic(true);
+            SwordDamage.Magic = true;
             DisplayDamage();
         }
 
         private void flaming_Checked(object sender, RoutedEventArgs e)
         {
-            SwordDamage.SetFlaming(true);
+            SwordDamage.Flaming = true;
             DisplayDamage();
         }
 
         private void flaming_Unchecked(object sender, RoutedEventArgs e)
         {
-            SwordDamage.SetFlaming(false);
+            SwordDamage.Flaming = false;
             DisplayDamage();
         }
 
         private void magic_Unchecked(object sender, RoutedEventArgs e)
         {
-            SwordDamage.SetMagic(false);
+            SwordDamage.Magic = false;
             DisplayDamage();
         }
 
