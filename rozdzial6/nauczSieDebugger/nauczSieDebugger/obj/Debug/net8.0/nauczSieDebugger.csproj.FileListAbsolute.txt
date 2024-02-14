@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\bin\Debug\net8.0\nauczSieDebugger.exe
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\bin\Debug\net8.0\nauczSieDebugger.deps.json
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\bin\Debug\net8.0\nauczSieDebugger.runtimeconfig.json
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\bin\Debug\net8.0\nauczSieDebugger.dll
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\bin\Debug\net8.0\nauczSieDebugger.pdb
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.AssemblyInfo.cs
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.sourcelink.json
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.dll
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\refint\nauczSieDebugger.dll
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.pdb
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\nauczSieDebugger.genruntimeconfig.cache
+E:\RuszGłową\rozdzial6\nauczSieDebugger\nauczSieDebugger\obj\Debug\net8.0\ref\nauczSieDebugger.dll
