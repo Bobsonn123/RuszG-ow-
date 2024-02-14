@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\bin\Debug\net8.0\programOPtakach.exe
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\bin\Debug\net8.0\programOPtakach.deps.json
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\bin\Debug\net8.0\programOPtakach.runtimeconfig.json
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\bin\Debug\net8.0\programOPtakach.dll
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\bin\Debug\net8.0\programOPtakach.pdb
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.AssemblyInfo.cs
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.sourcelink.json
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.dll
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\refint\programOPtakach.dll
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.pdb
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\programOPtakach.genruntimeconfig.cache
+E:\RuszGłową\rozdzial6\programOPtakach\programOPtakach\obj\Debug\net8.0\ref\programOPtakach.dll

@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\bin\Debug\net8.0\pomocDlaOskiego2.exe
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\bin\Debug\net8.0\pomocDlaOskiego2.deps.json
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\bin\Debug\net8.0\pomocDlaOskiego2.runtimeconfig.json
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\bin\Debug\net8.0\pomocDlaOskiego2.dll
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\bin\Debug\net8.0\pomocDlaOskiego2.pdb
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.AssemblyInfo.cs
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.sourcelink.json
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.dll
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\refint\pomocDlaOskiego2.dll
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.pdb
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\pomocDlaOskiego2.genruntimeconfig.cache
+E:\RuszGłową\rozdzial6\pomocDlaOskiego2\pomocDlaOskiego2\obj\Debug\net8.0\ref\pomocDlaOskiego2.dll
