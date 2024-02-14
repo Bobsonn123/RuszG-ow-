@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zlodziejSejfKonsola/1.0.0": {
+        "runtime": {
+          "zlodziejSejfKonsola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zlodziejSejfKonsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\bin\Debug\net8.0\zlodziejSejfKonsola.exe
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\bin\Debug\net8.0\zlodziejSejfKonsola.deps.json
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\bin\Debug\net8.0\zlodziejSejfKonsola.runtimeconfig.json
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\bin\Debug\net8.0\zlodziejSejfKonsola.dll
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\bin\Debug\net8.0\zlodziejSejfKonsola.pdb
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.AssemblyInfo.cs
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.sourcelink.json
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.dll
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\refint\zlodziejSejfKonsola.dll
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.pdb
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\zlodziejSejfKonsola.genruntimeconfig.cache
+E:\RuszGłową\rozdzial6\zlodziejSejfKonsola\zlodziejSejfKonsola\obj\Debug\net8.0\ref\zlodziejSejfKonsola.dll
