@@ -14,7 +14,14 @@ namespace programOPtakach
 
             for (int i = 0; i < eggs.Length; i++)
             {
-                eggs[i] = new Egg(Randomizer.NextDouble() * 2 + 1, "Białe");
+                if (Bird.Randomizer.Next(4) == 0)
+                {
+                    eggs[i] = new BrokenEgg("Białe");
+                }
+                else
+                {
+                    eggs[i] = new Egg(Bird.Randomizer.Next(4) * 2 + 1, "Białe");
+                }
             }
             return eggs;
         }
