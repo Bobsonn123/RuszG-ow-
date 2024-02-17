@@ -1,0 +1,36 @@
+﻿<Window x:Class="aplikacjaOPszczołach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:aplikacjaOPszczołach"
+        mc:Ignorable="d"
+        Title="System zarządzania rojem" Height="325" Width="625">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Przydzialne funkcje&#xD;&#xA;" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+        <Label Grid.Column="1" Content="Report dla królowej" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
+        <StackPanel Grid.Row="1" VerticalAlignment="Top" Margin="20,20,20,20">
+            <ComboBox x:Name="jobSelector" FontSize="18" SelectedIndex="0" Margin="0,0,0,20" Width="273">
+                <ListBoxItem Content="Zbieraczka nektaru"/>
+                <ListBoxItem Content="Producentka miodu"/>
+                <ListBoxItem Content="Opiekunka jaj"/>
+            </ComboBox>
+
+
+            <Button Content="Prrydziel funkcję pszczole" FontSize="18px" Click="AssignJob_Click"></Button>
+        </StackPanel>
+        <Button Content="Następna zmiana" FontSize="18" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="96" Width="273" Click="WorkShift_Click"/>
+
+        <TextBox x:Name="statusReport" IsReadOnly="True" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" Margin="20"></TextBox>
+
+    </Grid>
+</Window>
