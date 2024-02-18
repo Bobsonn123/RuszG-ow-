@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\bin\Debug\aplikacjaOPszczołach.exe.config
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\bin\Debug\aplikacjaOPszczołach.exe
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\bin\Debug\aplikacjaOPszczołach.pdb
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.csproj.AssemblyReference.cache
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\MainWindow.g.cs
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\App.g.cs
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach_MarkupCompile.cache
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach_MarkupCompile.lref
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\MainWindow.baml
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.g.resources
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.Properties.Resources.resources
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.csproj.GenerateResource.cache
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.exe
+E:\RuszGłową\rozdzial6\aplikacjaOPszczołach\aplikacjaOPszczołach\obj\Debug\aplikacjaOPszczołach.pdb
