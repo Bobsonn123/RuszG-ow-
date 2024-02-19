@@ -10,7 +10,7 @@ namespace aplikacjaOPszczołach
     {
         public NectarCollector() : base("Zbieraczka nektaru") { }
 
-        public override float CostPerShift { get; } = 1.95f;
+        public override float CostPerShift { get { return 1.95f; } }
         public const float NECTAR_COLLECTED_PER_SHIFT = 33.25f;
 
         public override void DoJob()

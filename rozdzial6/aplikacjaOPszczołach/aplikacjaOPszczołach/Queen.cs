@@ -17,14 +17,14 @@ namespace aplikacjaOPszczołach
 
         private Bee[] workers = new Bee[0];
 
-        private float eggs;
+        private float eggs = 2;
         private float unassignedWorkers = 3;
         public string StatusReport { get; private set; }
         public const float EGGS_PER_SHIFT = 0.45f;
         public const float HONEY_PER_UNASSIGNED_WORKER = 0.5f;
         
 
-        public override float CostPerShift { get; } = 2.15f;
+        public override float CostPerShift { get { return 2.15f; } }
 
         public override void DoJob()
         {
@@ -32,8 +32,9 @@ namespace aplikacjaOPszczołach
             foreach (Bee worker in workers)
             {
                 worker.WorkTheNextShift();
-                HoneyVault.ConsumeHoney(HONEY_PER_UNASSIGNED_WORKER * unassignedWorkers);
+                
             }
+            HoneyVault.ConsumeHoney(HONEY_PER_UNASSIGNED_WORKER * unassignedWorkers);
             UpdateStatusReport();
         }
 

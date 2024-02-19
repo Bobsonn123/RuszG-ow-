@@ -14,7 +14,7 @@ namespace aplikacjaOPszczołach
         this.queen = queen;
         }
 
-        public override float CostPerShift { get; } = 1.35f;
+        public override float CostPerShift { get { return 1.35f; } }
         public const float CARE_PROGRESS_PER_SHIFT = 0.15f;
         private Queen queen;
 

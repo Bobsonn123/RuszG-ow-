@@ -10,7 +10,7 @@ namespace aplikacjaOPszczołach
     {
         public HoneyManufacturer() : base ("Producentka miodu") { }
 
-        public override float CostPerShift { get; } = 1.7f;
+        public override float CostPerShift { get { return 1.7f; } } 
         public const float NECTAR_PROCESSED_PER_SHIFT = 33.15f;
 
         public override void DoJob()

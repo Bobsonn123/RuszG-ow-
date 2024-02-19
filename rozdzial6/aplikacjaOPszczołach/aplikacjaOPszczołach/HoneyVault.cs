@@ -8,26 +8,20 @@ namespace aplikacjaOPszczołach
 {
     internal static class HoneyVault
     {
-        public const float NECTAR_CONVERSION_RATIO = .19f;
+        public const float NECTAR_CONVERSION_RATIO = .50f;
         public const float LOW_LEVEL_WARNING = 10f;
 
-        private static float honey = 25f;
+        private static float honey = 100f;
 
-        private static float nectar = 100f;
+        private static float nectar = 250f;
 
         public static void ConvertNectarToHoney(float amount)
         {
 
-            if(amount > nectar)
-            {
-                honey += nectar;
-                nectar = 0;
-            }
-            else
-            {
-                nectar -= amount;
-                honey += (amount * NECTAR_CONVERSION_RATIO);
-            }
+            if(amount > nectar) amount = nectar; 
+            nectar -= amount;
+            honey += (amount * NECTAR_CONVERSION_RATIO);
+           
         }
 
         public static bool ConsumeHoney(float amount)
