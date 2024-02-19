@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\bin\Debug\net8.0\misjaPlaneta.exe
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\bin\Debug\net8.0\misjaPlaneta.deps.json
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\bin\Debug\net8.0\misjaPlaneta.runtimeconfig.json
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\bin\Debug\net8.0\misjaPlaneta.dll
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\bin\Debug\net8.0\misjaPlaneta.pdb
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.AssemblyInfo.cs
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.sourcelink.json
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.dll
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\refint\misjaPlaneta.dll
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.pdb
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\misjaPlaneta.genruntimeconfig.cache
+E:\RuszGłową\rozdzial6\misjaPlaneta\misjaPlaneta\obj\Debug\net8.0\ref\misjaPlaneta.dll
