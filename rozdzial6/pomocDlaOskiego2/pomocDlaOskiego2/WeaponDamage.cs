@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace pomocDlaOskiego2
 {
-    internal class WeaponDamage
+    abstract class WeaponDamage
     {
         public virtual int Damage { get; protected set; }
+        protected abstract void CalculateDamage();
         public WeaponDamage(int startingRoll)
         {
             roll = startingRoll;
@@ -51,9 +52,6 @@ namespace pomocDlaOskiego2
                 CalculateDamage();
             }
         }
-        protected virtual void CalculateDamage()
-        {
-            /* przesłania z innych */
-        }
+        
     }
 }
