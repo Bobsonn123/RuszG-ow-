@@ -26,7 +26,7 @@ namespace aplikacjaOPszczołach
 
         public override float CostPerShift { get { return 2.15f; } }
 
-        public override void DoJob()
+        protected override void DoJob()
         {
             eggs += EGGS_PER_SHIFT;
             foreach (Bee worker in workers)

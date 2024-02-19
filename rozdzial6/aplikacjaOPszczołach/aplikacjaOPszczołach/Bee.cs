@@ -7,7 +7,7 @@ using System.Windows.Controls;
 
 namespace aplikacjaOPszczołach
 {
-    internal class Bee
+    abstract class Bee
     {
 
         public string Job { get; private set; }
@@ -16,7 +16,7 @@ namespace aplikacjaOPszczołach
         {
             Job = job;
         }
-        public virtual float CostPerShift { get; }
+        public abstract float CostPerShift { get; }
 
         public virtual void WorkTheNextShift()
         {
@@ -26,10 +26,7 @@ namespace aplikacjaOPszczołach
             }
         }
 
-        public virtual void DoJob()
-        {
-            // przeslanianie przez inne klasy
-        }
+        protected abstract void DoJob();
 
     }
 }

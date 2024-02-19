@@ -18,7 +18,7 @@ namespace aplikacjaOPszczołach
         public const float CARE_PROGRESS_PER_SHIFT = 0.15f;
         private Queen queen;
 
-        public override void DoJob()
+        protected override void DoJob()
         {
             queen.CareForEggs(CARE_PROGRESS_PER_SHIFT);
         }
