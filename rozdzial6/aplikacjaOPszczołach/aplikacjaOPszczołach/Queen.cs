@@ -15,7 +15,7 @@ namespace aplikacjaOPszczołach
             AssignBee("Zbieraczka nektaru");
         }
 
-        private Bee[] workers = new Bee[0];
+        private IWorker[] workers = new IWorker[0];
 
         private float eggs = 2;
         private float unassignedWorkers = 3;
@@ -29,7 +29,7 @@ namespace aplikacjaOPszczołach
         protected override void DoJob()
         {
             eggs += EGGS_PER_SHIFT;
-            foreach (Bee worker in workers)
+            foreach (IWorker worker in workers)
             {
                 worker.WorkTheNextShift();
                 
@@ -56,7 +56,7 @@ namespace aplikacjaOPszczołach
             UpdateStatusReport();
         }
 
-        private void AddWorker (Bee worker)
+        private void AddWorker (IWorker worker)
         {
             if(unassignedWorkers >= 1)
             {
@@ -87,7 +87,7 @@ namespace aplikacjaOPszczołach
         private string WorkerStatus(string job)
         {
             int count = 0;
-            foreach(Bee worker in workers)
+            foreach(IWorker worker in workers)
             {
                 if (worker.Job == job) count++;
             }

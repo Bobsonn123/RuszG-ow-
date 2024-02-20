@@ -7,7 +7,7 @@ using System.Windows.Controls;
 
 namespace aplikacjaOPszczołach
 {
-    abstract class Bee
+    abstract class Bee : IWorker
     {
 
         public string Job { get; private set; }
