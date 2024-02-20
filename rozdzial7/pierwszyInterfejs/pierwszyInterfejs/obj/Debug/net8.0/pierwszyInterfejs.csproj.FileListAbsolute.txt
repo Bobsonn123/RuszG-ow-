@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\bin\Debug\net8.0\pierwszyInterfejs.exe
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\bin\Debug\net8.0\pierwszyInterfejs.deps.json
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\bin\Debug\net8.0\pierwszyInterfejs.runtimeconfig.json
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\bin\Debug\net8.0\pierwszyInterfejs.dll
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\bin\Debug\net8.0\pierwszyInterfejs.pdb
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.AssemblyInfo.cs
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.sourcelink.json
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.dll
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\refint\pierwszyInterfejs.dll
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.pdb
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\pierwszyInterfejs.genruntimeconfig.cache
+E:\RuszGłową\rozdzial7\pierwszyInterfejs\pierwszyInterfejs\obj\Debug\net8.0\ref\pierwszyInterfejs.dll
