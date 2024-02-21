@@ -10,5 +10,12 @@ namespace pierwszyInterfejs
     {
         string ScaryThingIHave { get; }
         void ScareLittleChildren();
+
+        void ScareAdults()
+        {
+            Console.WriteLine($@"JEstem pradawnym złem prześladującym Cię we snach. Spójrz na mój przerażający naszyjnik z {random.Next(1, 4)} palcami moich ofiar.
+            A, byłbym zapomniał...");
+            ScareLittleChildren();
+        }
     }
 }
