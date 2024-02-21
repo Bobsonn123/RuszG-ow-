@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\bin\Debug\net8.0\kolejnaKonsola.exe
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\bin\Debug\net8.0\kolejnaKonsola.deps.json
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\bin\Debug\net8.0\kolejnaKonsola.runtimeconfig.json
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\bin\Debug\net8.0\kolejnaKonsola.dll
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\bin\Debug\net8.0\kolejnaKonsola.pdb
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.AssemblyInfo.cs
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.sourcelink.json
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.dll
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\refint\kolejnaKonsola.dll
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.pdb
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\kolejnaKonsola.genruntimeconfig.cache
+E:\RuszGłową\rozdzial7\kolejnaKonsola\kolejnaKonsola\obj\Debug\net8.0\ref\kolejnaKonsola.dll

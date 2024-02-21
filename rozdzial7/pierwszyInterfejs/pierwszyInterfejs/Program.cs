@@ -4,10 +4,16 @@
     {
         static void Main(string[] args)
         {
-            TallGuy tallGuy = new TallGuy() { Height = 183, Name = "Jeremi" };
-            tallGuy.TalkAboutYourself();
-            Console.WriteLine($"Ten wysoki gość ma {tallGuy.FunnyThingIHave}.");
-            tallGuy.Honk();
+            IClown.CarCapacity = 18;
+            Console.WriteLine(IClown.ClownCarDescription());
+
+
+            IClown fingersTheClown = new ScaryScary(14, "wielkie czerwone oczy");
+            fingersTheClown.Honk();
+            if (fingersTheClown is IScaryClown iScaryClownReference)
+            {
+                iScaryClownReference.ScareLittleChildren();
+            }
         }
     }
 }
