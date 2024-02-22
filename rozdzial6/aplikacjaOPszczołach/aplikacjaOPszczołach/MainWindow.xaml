@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:aplikacjaOPszczołach"
         mc:Ignorable="d"
         Title="System zarządzania rojem" Height="325" Width="625">
-    <Grid>
+    <Window.Resources>
+        <local:Queen x:Key="queen"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource queen}">
         <Grid.RowDefinitions>
             <RowDefinition/>
             <RowDefinition Height="4*"/>
@@ -30,7 +33,7 @@
         </StackPanel>
         <Button Content="Następna zmiana" FontSize="18" HorizontalAlignment="Center" Grid.Row="2" VerticalAlignment="Center" Height="96" Width="273" Click="WorkShift_Click"/>
 
-        <TextBox x:Name="statusReport" IsReadOnly="True" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" Margin="20"></TextBox>
+        <TextBox Text="{Binding StatusReport, Mode=OneWay}" x:Name="statusReport" IsReadOnly="True" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" Margin="20"></TextBox>
 
     </Grid>
 </Window>

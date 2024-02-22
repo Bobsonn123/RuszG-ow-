@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel;
 
 namespace aplikacjaOPszczołach
 {
-    internal class Queen : Bee
+    internal class Queen : Bee, INotifyPropertyChanged
     {
         public Queen() : base("Królowa")
         {
@@ -22,7 +23,8 @@ namespace aplikacjaOPszczołach
         public string StatusReport { get; private set; }
         public const float EGGS_PER_SHIFT = 0.45f;
         public const float HONEY_PER_UNASSIGNED_WORKER = 0.5f;
-        
+
+        public event PropertyChangedEventHandler PropertyChanged;
 
         public override float CostPerShift { get { return 2.15f; } }
 
@@ -82,6 +84,7 @@ namespace aplikacjaOPszczołach
             $"\nLiczba jaj: {eggs:0.0}\n" + $"Nieprzydzielone robotnice: {unassignedWorkers:0.0}" +
             $"\n{WorkerStatus("Zbieraczka nektaru")}\n{WorkerStatus("Producentka miodu")}" +
             $"\n{WorkerStatus("Opiekunka jaj")}\nROBOTNIE W SUMIE: {workers.Length}";
+            OnPropertyChanged("StatusReport");
         }
 
         private string WorkerStatus(string job)
@@ -92,6 +95,11 @@ namespace aplikacjaOPszczołach
                 if (worker.Job == job) count++;
             }
             return $"{job}: {count}";
+        }
+
+        protected void OnPropertyChanged(string name)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
         }
 
 
