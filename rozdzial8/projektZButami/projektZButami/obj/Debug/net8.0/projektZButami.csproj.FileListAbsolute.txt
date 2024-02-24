@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\bin\Debug\net8.0\projektZButami.exe
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\bin\Debug\net8.0\projektZButami.deps.json
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\bin\Debug\net8.0\projektZButami.runtimeconfig.json
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\bin\Debug\net8.0\projektZButami.dll
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\bin\Debug\net8.0\projektZButami.pdb
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.sourcelink.json
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.dll
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\refint\projektZButami.dll
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.pdb
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\projektZButami.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\projektZButami\projektZButami\obj\Debug\net8.0\ref\projektZButami.dll

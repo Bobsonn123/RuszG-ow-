@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\bin\Debug\net8.0\kartyProjekt.exe
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\bin\Debug\net8.0\kartyProjekt.deps.json
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\bin\Debug\net8.0\kartyProjekt.runtimeconfig.json
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\bin\Debug\net8.0\kartyProjekt.dll
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\bin\Debug\net8.0\kartyProjekt.pdb
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.sourcelink.json
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.dll
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\refint\kartyProjekt.dll
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.pdb
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\kartyProjekt.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\kartyProjekt\kartyProjekt\obj\Debug\net8.0\ref\kartyProjekt.dll
