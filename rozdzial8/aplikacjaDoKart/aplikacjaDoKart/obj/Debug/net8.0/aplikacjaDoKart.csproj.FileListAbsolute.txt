@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\bin\Debug\net8.0\aplikacjaDoKart.exe
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\bin\Debug\net8.0\aplikacjaDoKart.deps.json
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\bin\Debug\net8.0\aplikacjaDoKart.runtimeconfig.json
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\bin\Debug\net8.0\aplikacjaDoKart.dll
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\bin\Debug\net8.0\aplikacjaDoKart.pdb
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.sourcelink.json
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.dll
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\refint\aplikacjaDoKart.dll
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.pdb
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\aplikacjaDoKart.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\aplikacjaDoKart\aplikacjaDoKart\obj\Debug\net8.0\ref\aplikacjaDoKart.dll
