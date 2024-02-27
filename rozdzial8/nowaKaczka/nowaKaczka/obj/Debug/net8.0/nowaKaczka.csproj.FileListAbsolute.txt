@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\bin\Debug\net8.0\nowaKaczka.exe
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\bin\Debug\net8.0\nowaKaczka.deps.json
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\bin\Debug\net8.0\nowaKaczka.runtimeconfig.json
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\bin\Debug\net8.0\nowaKaczka.dll
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\bin\Debug\net8.0\nowaKaczka.pdb
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.sourcelink.json
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.dll
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\refint\nowaKaczka.dll
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.pdb
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\nowaKaczka.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\nowaKaczka\nowaKaczka\obj\Debug\net8.0\ref\nowaKaczka.dll
