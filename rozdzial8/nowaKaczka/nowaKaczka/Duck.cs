@@ -8,6 +8,11 @@ namespace nowaKaczka
 {
     internal class Duck : IComparable<Duck>
     {
+
+        public override string ToString()
+        {
+            return $"{Kind}, {Size}";
+        }
         public int Size
         {
             get; set;

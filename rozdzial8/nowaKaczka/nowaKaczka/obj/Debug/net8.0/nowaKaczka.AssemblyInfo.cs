@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nowaKaczka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a006e3307d9628593f977b61c93c7cf6f5e9fc34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18bead510c6867855f7709c3eb2479264562fee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("nowaKaczka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nowaKaczka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
