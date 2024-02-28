@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\bin\Debug\net8.0\pierwszyRazSlowniki.exe
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\bin\Debug\net8.0\pierwszyRazSlowniki.deps.json
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\bin\Debug\net8.0\pierwszyRazSlowniki.runtimeconfig.json
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\bin\Debug\net8.0\pierwszyRazSlowniki.dll
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\bin\Debug\net8.0\pierwszyRazSlowniki.pdb
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.sourcelink.json
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.dll
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\refint\pierwszyRazSlowniki.dll
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.pdb
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\pierwszyRazSlowniki.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\pierwszyRazSlowniki\pierwszyRazSlowniki\obj\Debug\net8.0\ref\pierwszyRazSlowniki.dll
