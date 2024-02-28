@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nastepnaKaczka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22335dff4e91206905fd74a68b495bac4d067e29")]
 [assembly: System.Reflection.AssemblyProductAttribute("nastepnaKaczka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nastepnaKaczka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
