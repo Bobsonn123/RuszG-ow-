@@ -1,0 +1,15 @@
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\bin\Debug\net8.0\drwalNalesniki.exe
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\bin\Debug\net8.0\drwalNalesniki.deps.json
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\bin\Debug\net8.0\drwalNalesniki.runtimeconfig.json
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\bin\Debug\net8.0\drwalNalesniki.dll
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\bin\Debug\net8.0\drwalNalesniki.pdb
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.GeneratedMSBuildEditorConfig.editorconfig
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.AssemblyInfoInputs.cache
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.AssemblyInfo.cs
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.csproj.CoreCompileInputs.cache
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.sourcelink.json
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.dll
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\refint\drwalNalesniki.dll
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.pdb
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\drwalNalesniki.genruntimeconfig.cache
+E:\RuszGłową\rozdzial8\drwalNalesniki\drwalNalesniki\obj\Debug\net8.0\ref\drwalNalesniki.dll
